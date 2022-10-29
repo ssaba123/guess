@@ -34,7 +34,7 @@ function checkNum(){
 }
 
 function resetAll(){
-    score.textContent = 0
+    score.textContent = 20
     message.textContent = 'Start guessing...'
     myGuess = 0;
     guess.value = ''
